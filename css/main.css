@@ -1,0 +1,16 @@
+/** Mobile first: this top css section will be for screens with screens smaller than 767px. **/
+
+
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 768px) {
+	body {
+    background-color: #D92B04;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width: 1200px) {
+  body {
+    background-color: #BF046B;
+  }
+}
